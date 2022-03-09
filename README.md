@@ -25,7 +25,7 @@ README Guide: https://coding-boot-camp.github.io/full-stack/github/professional-
 
 MIT License
 
-Copyright (c) 2014-present Sebastian McKenzie and other contributors
+Copyright (c) 2022-present Ryan Howley and other contributors
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
